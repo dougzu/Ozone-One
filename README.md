@@ -38,7 +38,7 @@ This project was mostly about learning and experimentation — I wanted to learn
 | Y121E Type S Quartz Movement | Esslinger | Y121 | [Link](https://www.esslinger.com/epson-japan-3-hand-quartz-watch-movement-y121-overall-height-4-5mm/?searchid=13994275&search_query=Y121)
 | Crown | Esslinger | 
 | Tube | Esslinger | 
-| Band Pin | 
+| 22mm x 1.8mm Spring Bar | Esslinger | 82.2228 | [Link](https://www.esslinger.com/watch-band-pin-1-80mm-regular-double-flanged-stainless-steel-spring-bars-package-of-10/?searchid=13995083&search_query=82.2228)
 | 28.3mm Crystal, 1mm Thick | Esslinger | 201100 | [Link](https://www.esslinger.com/watch-crystal-flat-round-standard-mineral-glass-crystal-1mm-thick/?searchid=13994291&search_query=201100)
 | 28.5mm Crystal "I" Gasket | Esslinger | 84.045-28.5 | [Link](https://www.esslinger.com/individual-hytrel-i-watch-gaskets-for-glass-crystals/?searchid=13994301&search_query=84.045-28.5)
 | Hour and Minute Hands | Esslinger | 86.332.5 | [Link](https://www.esslinger.com/watch-hands-to-fit-minute-hand-hole-size-65mm-and-hour-hand-hole-size-1-10mm/?searchid=13994289&search_query=86.332.5)
