@@ -26,22 +26,28 @@ This project was mostly about learning and experimentation — I wanted to learn
 
 - **Case:** Machined from aluminum by JLCPCB. The case was bead-blasted and annodized by JLC as part of the finishing process.  
 - **Dial:** Cut from sheet aluminum I found at Home Depot, and prepared by hand. The process included cleaning, sanding, spray-painting, sanding again, re-coating, and then applying the water-transfer decals before finishing with a clear coat. 
-- **Internals:** Quartz movement, stem, dial, and hands sourced from Esslinger. There is also an FDM-printed retention piece that presses the dial forwards, keeping it secure.
-- **Assembly:** Final watch assembled by hand without any special tools. 
+- **Internals:** Quartz movement, stem, crown, and hands sourced from Esslinger. There is also an FDM-printed retention piece that presses the dial forwards, keeping it secure.
+- **Assembly:** Final watch assembled without any special tools. 
 
 ---
 
 ## Bill of Materials (BOM)
 
-| Component | Product Number | Source | Link |
+| Component | Source | SKU | Link |
 |----------|--------|---|------|
-| Y121E Type S Quartz Movement | Esslinger | [Esslinger Y121E](https://www.esslinger.com) |
-| Flat Watch Crystal (fits 38 mm case) | Esslinger | [Esslinger Crystals](https://www.esslinger.com) |
-| Watch Hands (compatible with Y121E) | Esslinger | [Esslinger Hands](https://www.esslinger.com) |
-| Aluminum CNC Case | JLCPCB CNC Machining | [JLCPCB CNC](https://jlcpcb.com) |
-| Sheet Aluminum (dial material) | Local supplier / McMaster | [McMaster Metals](https://www.mcmaster.com) |
-| Water-transfer paper | Amazon | [Water Transfer Paper](https://www.amazon.com) |
-| Black Rubber Strap | Salvaged from donor watch | – |
+| Y121E Type S Quartz Movement | Esslinger | Y121 | [Link]([https://www.esslinger.com](https://www.esslinger.com/epson-japan-3-hand-quartz-watch-movement-y121-overall-height-4-5mm/?searchid=13994275&search_query=Y121)) |
+| Crown | Esslinger | 
+| Band Pin | 
+| 28.3mm Crystal, 1mm Thick | Esslinger | [Link](https://www.esslinger.com/watch-crystal-flat-round-standard-mineral-glass-crystal-1mm-thick/?searchid=13994291&search_query=201100)
+| 28.5mm Crystal "I" Gasket | Esslinger | 84.045-28.5 | [Link](https://www.esslinger.com/individual-hytrel-i-watch-gaskets-for-glass-crystals/?searchid=13994301&search_query=84.045-28.5)
+| Hour and Minute Hands | Esslinger | 86.332.5 | [Link](https://www.esslinger.com/watch-hands-to-fit-minute-hand-hole-size-65mm-and-hour-hand-hole-size-1-10mm/?searchid=13994289&search_query=86.332.5)
+| Second Hand (not used) | Esslinger | 86.6669.48.3 | [Link](https://www.esslinger.com/sweep-second-center-hands-for-watches-hole-size-20mm/?searchid=13994285&search_query=86.6669.48.3)
+| Retention Piece | FDM Printed | - | - |
+| Aluminum CNC Case (Front and Back) | JLC CNC | NA | [Link](https://jlccnc.com/)
+| Water-transfer paper | Amazon | B07WTT26QN | [Link](https://www.amazon.com/dp/B07WTT26QN?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1)
+| Sheet aluminum (dial material) | Home Depot | - | - |
+| Black Rubber Strap | Salved from donor watch | - | - |
+
 
 ---
 
