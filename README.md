@@ -35,7 +35,7 @@ This project was mostly about learning and experimentation — I wanted to learn
 
 | Component | Source | SKU | Link |
 |----------|--------|---|------|
-| Y121E Type S Quartz Movement | Esslinger | Y121 | [Link]([https://www.esslinger.com](https://www.esslinger.com/epson-japan-3-hand-quartz-watch-movement-y121-overall-height-4-5mm/?searchid=13994275&search_query=Y121)
+| Y121E Type S Quartz Movement | Esslinger | Y121 | [Link](https://www.esslinger.com/epson-japan-3-hand-quartz-watch-movement-y121-overall-height-4-5mm/?searchid=13994275&search_query=Y121)
 | Crown | Esslinger | 
 | Tube | Esslinger | 
 | Band Pin | 
