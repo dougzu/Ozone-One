@@ -47,7 +47,7 @@ This project was mostly about learning and experimentation — I wanted to learn
 | Aluminum CNC Case (Front and Back) | JLC CNC | NA | [Link](https://jlccnc.com/)
 | Water-transfer paper | Amazon | B07WTT26QN | [Link](https://www.amazon.com/dp/B07WTT26QN?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1)
 | Sheet aluminum (dial material) | Home Depot | - | - |
-| Black Rubber Strap | Salved from donor watch | - | - |
+| Black Rubber Strap | Salvaged from donor watch | - | - |
 
 
 ---
