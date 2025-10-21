@@ -24,7 +24,7 @@ I had the case CNC-machined from aluminum by JLCPCB, sourced the internals from 
 
 The watch can be roughly broken down into the following parts:
 - **Front Case and Rear Case:** The case was machined from aluminum by JLCPCB. It was bead-blasted and annodized by JLC as part of the finishing process. I stuck with a "natural" matte color because I wanted a slightly more industrial feel. 
-- **Dial:** The dial is cut from sheet aluminum I found at Home Depot. After cutting it, I cleaned, sanded, and spray-painted it white. Once I was happy with the dial, I applied a clear coat and used water-transfer decals to transfer my dial art on to it. 
+- **Dial:** The dial is cut from sheet aluminum I found at Home Depot. After cutting it, I cleaned, sanded, and spray-painted it white. Once I was happy with the dial, I applied a clear coat and used water-transfer decals to transfer my dial art onto it. When installed in the watch, it is very difficult to tell that decals were used for the text. The most obvious artifact of the process is the resolution of the laser-jet printer that I used. 
 - **Internals:** The quartz movement, stem, crown, crystal, crystal gasket, and hands were sourced from Esslinger. There is also an FDM-printed retainer that sits between the dial and rear case. When the rear case is screwed in, the retainer pushes the dial forward against the front case, keeping it secure.
 
 There are better ways to make the dial, but this worked reasonably well for me without much effort. I would have purchased a dial blank, but I struggled to find a dial blank that was the right size, didn't have extra cutouts, and would arrive in a reasonable time.
