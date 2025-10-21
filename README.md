@@ -1,10 +1,8 @@
 # Ozone 1
 
-Ozone 1 is a custom wristwatch I designed and built as a personal project. It’s a small, minimalist quartz watch that brings together a precision-machined case, a handmade dial, and a simple, reliable movement.
+Ozone 1 is a small, minimalist quarts watch that brings together a precision-machined case, a handmade dial, and a simple, reliable movement. Ozone 1 was built as a personal project with the primary goal being to learn and experiment. I wanted to learn a little about how watches are built, and try my hand at a mechanical project where form matters just as much as function. Overall, I am pleased with the end result.
 
 I had the case CNC-machined from aluminum by JLCPCB, sourced the internals from Esslinger, and made the dial myself from sheet aluminum and water-transfer decal paper.
-
-This project was mostly about learning and experimentation — I wanted to learn a little about watches and try my hand at building a nice-looking mechanical object from individual components. 
 
 ---
 
@@ -24,10 +22,16 @@ This project was mostly about learning and experimentation — I wanted to learn
 
 ## Fabrication & Assembly
 
-- **Case:** Machined from aluminum by JLCPCB. The case was bead-blasted and annodized by JLC as part of the finishing process.  
-- **Dial:** Cut from sheet aluminum I found at Home Depot, and prepared by hand. The process included cleaning, sanding, spray-painting, sanding again, re-coating, and then applying the water-transfer decals before finishing with a clear coat. 
-- **Internals:** Quartz movement, stem, crown, and hands sourced from Esslinger. There is also an FDM-printed retention piece that presses the dial forwards, keeping it secure.
-- **Assembly:** Final watch assembled without any special tools. 
+The watch can be roughly broken down into the following parts:
+- **Front Case and Rear Case:** The case was machined from aluminum by JLCPCB. It was bead-blasted and annodized by JLC as part of the finishing process. I stuck with a "natural" matte color because I wanted a slightly more industrial feel. 
+- **Dial:** The dial is cut from sheet aluminum I found at Home Depot. After cutting it, I cleaned, sanded, and spray-painted it white. Once I was happy with the dial, I applied a clear coat and used water-transfer decals to transfer my dial art on to it. 
+- **Internals:** The quartz movement, stem, crown, crystal, crystal gasket, and hands were sourced from Esslinger. There is also an FDM-printed retainer that sits between the dial and rear case. When the rear case is screwed in, the retainer pushes the dial forward against the front case, keeping it secure.
+
+There are better ways to make the dial, but this worked reasonably well for me without much effort. I would have purchased a dial blank, but I struggled to find a dial blank that was the right size, didn't have extra cutouts, and would arrive in a reasonable time.
+
+For a dial with additional cutouts, such as to show the date or day of the week, my homemade dial wouldn't work as well. It'd probably be better to buy a dial blank.
+
+The final watch was assembled wihtout any special tools. While I purchased a seconds hand, I ultimately didn't use it on because I was really struggling to get it secured on the movement's post, and didn't want to damage what was already there. I don't need the seconds hand, anyways.
 
 ---
 
