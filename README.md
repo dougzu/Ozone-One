@@ -12,7 +12,6 @@ This project was mostly about learning and experimentation — I wanted to learn
 
 | Feature         | Details                                             |
 |------------------|-----------------------------------------------------|
-| **Name**         | Ozone 1                                            |
 | **Case size**    | 38 mm diameter,  8.47 mm thickness                  |
 | **Lug width**    | 22 mm                                               |
 | **Movement**     | Epson Y121E Type S quartz                           |
