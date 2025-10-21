@@ -31,7 +31,7 @@ There are better ways to make the dial, but this worked reasonably well for me w
 
 For a dial with additional cutouts, such as to show the date or day of the week, my homemade dial wouldn't work as well. It'd probably be better to buy a dial blank.
 
-The final watch was assembled wihtout any special tools. While I purchased a seconds hand, I ultimately didn't use it on because I was really struggling to get it secured on the movement's post, and didn't want to damage what was already there. I don't need the seconds hand, anyways.
+The final watch was assembled wihtout any special tools. While I purchased a seconds hand, I ultimately didn't use it because I was struggling to get it secured on the movement's post, and didn't want to damage the dial. I don't need the seconds hand, anyways.
 
 ---
 
