@@ -1,6 +1,6 @@
 # Ozone 1
 
-Ozone 1 is a small, minimalist quarts watch that brings together a precision-machined case, a handmade dial, and a simple, reliable movement. Ozone 1 was built as a personal project with the primary goal being to learn and experiment. I wanted to learn a little about how watches are built, and try my hand at a mechanical project where form matters just as much as function. Overall, I am pleased with the end result.
+Ozone 1 is a small, minimalist quartz watch that brings together a precision-machined case, a handmade dial, and a simple, reliable movement. Ozone 1 was built as a personal project with the primary goal being to learn and experiment. I wanted to learn a little about how watches are built, and try my hand at a mechanical project where form matters just as much as function. Overall, I am pleased with the end result.
 
 I had the case CNC-machined from aluminum by JLCPCB, sourced the internals from Esslinger, and made the dial myself from sheet aluminum and water-transfer decal paper.
 
