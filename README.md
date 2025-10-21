@@ -22,7 +22,7 @@ This project was mostly about learning and experimentation — I wanted to learn
 
 ---
 
-## 🛠️ Fabrication & Assembly
+## Fabrication & Assembly
 
 - **Case:** Machined from aluminum by JLCPCB. The case was bead-blasted and annodized by JLC as part of the finishing process.  
 - **Dial:** Cut from sheet aluminum I found at Home Depot, and prepared by hand. The process included cleaning, sanding, spray-painting, sanding again, re-coating, and then applying the water-transfer decals before finishing with a clear coat. 
