@@ -44,7 +44,7 @@ This project was mostly about learning and experimentation — I wanted to learn
 | Hour and Minute Hands | Esslinger | 86.332.5 | [Link](https://www.esslinger.com/watch-hands-to-fit-minute-hand-hole-size-65mm-and-hour-hand-hole-size-1-10mm/?searchid=13994289&search_query=86.332.5)
 | Second Hand (not used) | Esslinger | 86.6669.48.3 | [Link](https://www.esslinger.com/sweep-second-center-hands-for-watches-hole-size-20mm/?searchid=13994285&search_query=86.6669.48.3)
 | Water-transfer paper | Amazon | B07WTT26QN | [Link](https://www.amazon.com/dp/B07WTT26QN?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1)
-| Aluminum CNC Case (Front and Back) | JLC CNC | NA | [Link](https://jlccnc.com/)
+| Aluminum CNC Case (Front and Back) | JLC CNC | - | [Link](https://jlccnc.com/)
 | Sheet aluminum (dial material) | Home Depot | - | - |
 | Retention Piece | FDM Printed | - | - |
 | Black Rubber Strap | Salvaged from donor watch | - | - |
